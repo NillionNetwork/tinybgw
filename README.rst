@@ -14,8 +14,8 @@ Pure-Python implementation of a `comparison algorithm <https://nillion.pub/compa
    :target: https://tinybgw.readthedocs.io/en/latest/?badge=latest
    :alt: Read the Docs documentation status.
 
-.. |actions| image:: https://github.com/nillion-oss/tinybgw/workflows/lint-test-cover-docs/badge.svg
-   :target: https://github.com/nillion-oss/tinybgw/actions/workflows/lint-test-cover-docs.yml
+.. |actions| image:: https://github.com/NillionNetwork/tinybgw/workflows/lint-test-cover-docs/badge.svg
+   :target: https://github.com/NillionNetwork/tinybgw/actions/workflows/lint-test-cover-docs.yml
    :alt: GitHub Actions status.
 
 Installation and Usage
@@ -95,7 +95,7 @@ Style conventions are enforced using `Pylint <https://pylint.readthedocs.io>`__:
 
 Contributions
 ^^^^^^^^^^^^^
-In order to contribute to the source code, open an issue or submit a pull request on the `GitHub page <https://github.com/nillion-oss/tinybgw>`__ for this library.
+In order to contribute to the source code, open an issue or submit a pull request on the `GitHub page <https://github.com/NillionNetwork/tinybgw>`__ for this library.
 
 Versioning
 ^^^^^^^^^^
